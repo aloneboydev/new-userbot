@@ -30,7 +30,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
-#### Deploy in your VPS
+#### Deploy in your VPS ok
 ````bash
 git clone https://github.com/mrismanaziz/File-Sharing-Man
 cd File-Sharing-Man
