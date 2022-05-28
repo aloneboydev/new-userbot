@@ -115,5 +115,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
+   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐**
 
